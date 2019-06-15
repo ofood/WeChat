@@ -1,0 +1,14 @@
+F:\Project\WeChat\OFood.WeChat\OFoodWeChat.Open\bin\Debug\netcoreapp2.2\OFoodWeChat.Open.deps.json
+F:\Project\WeChat\OFood.WeChat\OFoodWeChat.Open\bin\Debug\netcoreapp2.2\OFoodWeChat.Open.dll
+F:\Project\WeChat\OFood.WeChat\OFoodWeChat.Open\bin\Debug\netcoreapp2.2\OFoodWeChat.Open.pdb
+F:\Project\WeChat\OFood.WeChat\OFoodWeChat.Open\bin\Debug\netcoreapp2.2\OFoodWeChat.Core.dll
+F:\Project\WeChat\OFood.WeChat\OFoodWeChat.Open\bin\Debug\netcoreapp2.2\OFoodWeChat.Infrastructure.dll
+F:\Project\WeChat\OFood.WeChat\OFoodWeChat.Open\bin\Debug\netcoreapp2.2\OFoodWeChat.Core.pdb
+F:\Project\WeChat\OFood.WeChat\OFoodWeChat.Open\bin\Debug\netcoreapp2.2\OFoodWeChat.Infrastructure.pdb
+F:\Project\WeChat\OFood.WeChat\OFoodWeChat.Open\obj\Debug\netcoreapp2.2\OFoodWeChat.Open.csprojAssemblyReference.cache
+F:\Project\WeChat\OFood.WeChat\OFoodWeChat.Open\obj\Debug\netcoreapp2.2\OFoodWeChat.Open.csproj.CoreCompileInputs.cache
+F:\Project\WeChat\OFood.WeChat\OFoodWeChat.Open\obj\Debug\netcoreapp2.2\OFoodWeChat.Open.AssemblyInfoInputs.cache
+F:\Project\WeChat\OFood.WeChat\OFoodWeChat.Open\obj\Debug\netcoreapp2.2\OFoodWeChat.Open.AssemblyInfo.cs
+F:\Project\WeChat\OFood.WeChat\OFoodWeChat.Open\obj\Debug\netcoreapp2.2\OFoodWeChat.Open.csproj.CopyComplete
+F:\Project\WeChat\OFood.WeChat\OFoodWeChat.Open\obj\Debug\netcoreapp2.2\OFoodWeChat.Open.dll
+F:\Project\WeChat\OFood.WeChat\OFoodWeChat.Open\obj\Debug\netcoreapp2.2\OFoodWeChat.Open.pdb

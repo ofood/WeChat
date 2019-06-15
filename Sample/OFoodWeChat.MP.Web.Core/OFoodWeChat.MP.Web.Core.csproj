@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="MessageHandlers\WorkMessageHandler\**" />
+    <EmbeddedResource Remove="MessageHandlers\WorkMessageHandler\**" />
+    <None Remove="MessageHandlers\WorkMessageHandler\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\OFoodWeChat.Core\OFoodWeChat.Core.csproj" />
+    <ProjectReference Include="..\..\OFoodWeChat.Infrastructure\OFoodWeChat.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\OFoodWeChat.MP\OFoodWeChat.MP.csproj" />
+    <ProjectReference Include="..\..\OFoodWeChat.Open\OFoodWeChat.Open.csproj" />
+    <ProjectReference Include="..\..\OFoodWeChat.TenPay\OFoodWeChat.TenPay.csproj" />
+    <ProjectReference Include="..\..\OFoodWeChat.WebSocket\OFoodWeChat.WebSocket.csproj" />
+    <ProjectReference Include="..\..\OFoodWeChat.WxOpen\OFoodWeChat.WxOpen.csproj" />
+  </ItemGroup>
+
+</Project>

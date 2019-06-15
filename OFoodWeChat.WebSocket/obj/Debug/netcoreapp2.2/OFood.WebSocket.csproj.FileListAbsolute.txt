@@ -1,0 +1,6 @@
+F:\Project\WeChat\OFood.WeChat\OFood.WebSocket\obj\Debug\netcoreapp2.2\OFood.WebSocket.csproj.CoreCompileInputs.cache
+F:\Project\WeChat\OFood.WeChat\OFood.WebSocket\obj\Debug\netcoreapp2.2\OFood.WebSocket.AssemblyInfoInputs.cache
+F:\Project\WeChat\OFood.WeChat\OFood.WebSocket\obj\Debug\netcoreapp2.2\OFood.WebSocket.AssemblyInfo.cs
+F:\Project\WeChat\OFood.WeChat\OFood.WebSocket\bin\Debug\netcoreapp2.2\OFood.WebSocket.deps.json
+F:\Project\WeChat\OFood.WeChat\OFood.WebSocket\bin\Debug\netcoreapp2.2\OFood.WebSocket.dll
+F:\Project\WeChat\OFood.WeChat\OFood.WebSocket\obj\Debug\netcoreapp2.2\OFood.WebSocket.csprojAssemblyReference.cache

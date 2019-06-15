@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Helpers\SessionHelper.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OFoodWeChat.Infrastructure\OFoodWeChat.Infrastructure.csproj" />
+    <ProjectReference Include="..\OFoodWeChat.Core\OFoodWeChat.Core.csproj" />
+    <ProjectReference Include="..\OFoodWeChat.MP\OFoodWeChat.MP.csproj" />
+  </ItemGroup>
+
+</Project>

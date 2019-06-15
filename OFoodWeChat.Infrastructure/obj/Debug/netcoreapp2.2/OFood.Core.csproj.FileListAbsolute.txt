@@ -1,0 +1,4 @@
+F:\Project\WeChat\OFood.WeChat\OFood.Core\obj\Debug\netcoreapp2.2\OFood.Core.csprojAssemblyReference.cache
+F:\Project\WeChat\OFood.WeChat\OFood.Core\obj\Debug\netcoreapp2.2\OFood.Core.csproj.CoreCompileInputs.cache
+F:\Project\WeChat\OFood.WeChat\OFood.Core\obj\Debug\netcoreapp2.2\OFood.Core.AssemblyInfoInputs.cache
+F:\Project\WeChat\OFood.WeChat\OFood.Core\obj\Debug\netcoreapp2.2\OFood.Core.AssemblyInfo.cs
