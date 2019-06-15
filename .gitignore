@@ -1,0 +1,14 @@
+/OFoodWeChat.Cache.Memcached/*
+/.vs
+/OFoodWeChat.Cache.Redis/*
+/OFoodWeChat.Cache.Redis.RedLock/*
+/OFoodWeChat.Core/*
+/OFoodWeChat.Infrastructure/*
+/OFoodWeChat.MP/*
+/OFoodWeChat.Open/*
+/OFoodWeChat.TenPay/*
+/OFoodWeChat.WebSocket/*
+/OFoodWeChat.Work/*
+/OFoodWeChat.WxOpen/*
+/Sample/OFoodWeChat.MP.Web/*
+/Sample/OFoodWeChat.MP.Web.Core/*
